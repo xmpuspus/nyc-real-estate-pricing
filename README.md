@@ -1,4 +1,4 @@
-# NYC Real Estate Pricing Web Application
+# NYC Real Estate Price Prediction Through Regression
 Author: Xavier M. Puspus
 
 
